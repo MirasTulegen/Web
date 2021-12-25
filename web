@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Personal Web</title>
+</head>
+<body>
+<h1 style="position: relative;text-align: center;">Welcome To My Personal Page!</h1>
+ <p style="position: relative;text-align: center;">   Name: Miras</p>    
+ <p style="position: relative;text-align: center;">Surname: Tulegen</p>
+    <p style="position: relative;text-align: center;"> Status:Student</p> 
+    <p style="position: relative;text-align: center;"> Weight: 55kg</p>   
+    <p style="position: relative;text-align: center;"> Height: 180sm</p> 
+    <p style="position: relative;text-align: center;"> Favorite superhero: Iron Man</p>  
+
+    <h1 style="position: relative;text-align: center;">WHAT I LOVE TO DO!?</h1>
+    <p style="position: relative; left: 3%;width: 97%;">Of all the variety of hobbies, my hobby is books. When I start reading, I give all of myself and I can sit reading some interesting book almost all day, forgetting about sleep and food. When I read, I calm down.
+
+Reading, I get to know myself, create my own reality. One book is reality. And I have already accumulated a lot of them.
+
+Love for books is the merit of Parents. I still remember the day when they gave me my first book - the wizard of the emerald city. I really enjoyed reading and my parents bought me new books.
+
+Now, I have already gathered a whole collection of books. They fill my entire room. Books gave me not only happy moments, but also good studies at school, because reading, I develop. </p>  
+    <h1 style="position: relative;text-align: center;">If you need me or you have a lot of time and want to chat,then contact the number:</h1>
+    <h1 style="position: relative;text-align: center;">8(747)6799632</h1>
+    <h1 style="position: relative;text-align: center;">But I don’t take ! HAHAHAH</h1>
+
+</body>
+</html>
+ <br>
+    <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Aitu</td>
+    <td>Miras Tulegen</td>
+    <td>Kazakhstan</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+ <br>
+ <form>
+  <label  for="fname">First name:</label><br>
+  <input  type="text" id="fname" name="fname"><br>
+  <label  for="lname">Last name:</label><br>
+  <input  type="text" id="lname" name="lname">
+</form>
+ <br>
+ <a href="href="https://www.w3schools.com/html/html_forms.asp>LINK </a>
+ <br>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Sweets</li>
+</ul>
+</body>
+</html>
